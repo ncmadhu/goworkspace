@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Sample Program")
+	fmt.Println("Sample Program Git test...")
 	testpkg.Otherfunc()
 }
